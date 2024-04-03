@@ -1,0 +1,4 @@
+PASS/FAIL
+Eye color
+Hair color
+Feeling from 1-10
